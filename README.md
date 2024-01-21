@@ -1,7 +1,7 @@
 ### Olá, eu sou Leonardo Marques. 👋
 
 - 🔭 Atualmente estou trabalhando em alguns projetos pessoas
-- 🌱 Estou aprendendo PHP Symfony
+- 🌱 Estou aprendendo Angular 17
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
