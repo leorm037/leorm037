@@ -1,6 +1,6 @@
 ### Olá, eu sou Leonardo Marques. 👋
 
-- 🔭 Atualmente estou trabalhando em alguns projetos pessoas
+- 🔭 Atualmente estou trabalhando em alguns projetos pessoais
 - 🌱 Estou aprendendo Angular 17
 <!--
 - 👯 I’m looking to collaborate on ...
